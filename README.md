@@ -21,11 +21,11 @@ Gnd: Pin negativo de alimentación.
 <img src="pines.jpg" alt="pines del sensor" width="400">
 
 ## Características eléctricas:
--Voltaje de trabajo: 5V.
--Corriente de trabajo: 15mA.
--Frecuencia de trabajo: 40KHz
--Rango de funcionamiento: 2 a 500 cm
--Ángulo de detección: 15 a 20 grados.
+- Voltaje de trabajo: 5V.
+- Corriente de trabajo: 15mA.
+- Frecuencia de trabajo: 40KHz
+- Rango de funcionamiento: 2 a 500 cm
+- Ángulo de detección: 15 a 20 grados.
 
 ## Funcionamiento y Diagrama de temporización:  
 En el diagrama de temporización se aprecia como solo es necesario aplicar un pulso
