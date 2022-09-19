@@ -38,3 +38,5 @@ Para saber a la distancia a la que se encuentra el objeto, solo hay que medir el
 tiempo al que está el pin Echo a nivel alto y aplicar la siguiente formula.
 
 <img src="diagrama.png" alt="pines del sensor" width="400">
+
+## [Hoja de Datos](https://leantec.es/wp-content/uploads/2019/06/Leantec.ES-HC-SR04.pdf)
